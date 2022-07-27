@@ -1,0 +1,1 @@
+Added feature for users to select 'true or false' as a question type
